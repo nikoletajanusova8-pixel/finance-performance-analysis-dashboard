@@ -6,7 +6,6 @@ Interactive Power BI dashboard analyzing revenue, expenses, profitability, and d
 
 - Power BI
 - DAX
-- Power Query
 - Data Modeling
 - Financial Reporting
 - KPI Analysis
@@ -29,5 +28,4 @@ dashboard-preview.png
 
 - Power BI
 - DAX
-- Power Query
 - Excel
